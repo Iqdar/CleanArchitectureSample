@@ -1,0 +1,15 @@
+D:\Studies\Projects\Projects\CleanArcLearn\Clean.Application\bin\Debug\net6.0\Clean.Application.deps.json
+D:\Studies\Projects\Projects\CleanArcLearn\Clean.Application\bin\Debug\net6.0\Clean.Application.dll
+D:\Studies\Projects\Projects\CleanArcLearn\Clean.Application\bin\Debug\net6.0\ref\Clean.Application.dll
+D:\Studies\Projects\Projects\CleanArcLearn\Clean.Application\bin\Debug\net6.0\Clean.Application.pdb
+D:\Studies\Projects\Projects\CleanArcLearn\Clean.Application\bin\Debug\net6.0\Clean.Domain.dll
+D:\Studies\Projects\Projects\CleanArcLearn\Clean.Application\bin\Debug\net6.0\Clean.Domain.pdb
+D:\Studies\Projects\Projects\CleanArcLearn\Clean.Application\obj\Debug\net6.0\Clean.Application.csproj.AssemblyReference.cache
+D:\Studies\Projects\Projects\CleanArcLearn\Clean.Application\obj\Debug\net6.0\Clean.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studies\Projects\Projects\CleanArcLearn\Clean.Application\obj\Debug\net6.0\Clean.Application.AssemblyInfoInputs.cache
+D:\Studies\Projects\Projects\CleanArcLearn\Clean.Application\obj\Debug\net6.0\Clean.Application.AssemblyInfo.cs
+D:\Studies\Projects\Projects\CleanArcLearn\Clean.Application\obj\Debug\net6.0\Clean.Application.csproj.CoreCompileInputs.cache
+D:\Studies\Projects\Projects\CleanArcLearn\Clean.Application\obj\Debug\net6.0\Clean.Application.csproj.CopyComplete
+D:\Studies\Projects\Projects\CleanArcLearn\Clean.Application\obj\Debug\net6.0\Clean.Application.dll
+D:\Studies\Projects\Projects\CleanArcLearn\Clean.Application\obj\Debug\net6.0\ref\Clean.Application.dll
+D:\Studies\Projects\Projects\CleanArcLearn\Clean.Application\obj\Debug\net6.0\Clean.Application.pdb
