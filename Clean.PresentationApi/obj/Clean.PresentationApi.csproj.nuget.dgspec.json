@@ -34,6 +34,9 @@
             "projectReferences": {
               "D:\\Studies\\Projects\\Projects\\CleanArcLearn\\Clean.Domain\\Clean.Domain.csproj": {
                 "projectPath": "D:\\Studies\\Projects\\Projects\\CleanArcLearn\\Clean.Domain\\Clean.Domain.csproj"
+              },
+              "D:\\Studies\\Projects\\Projects\\CleanArcLearn\\Clean.Infrastructure\\Clean.Infrastructure.csproj": {
+                "projectPath": "D:\\Studies\\Projects\\Projects\\CleanArcLearn\\Clean.Infrastructure\\Clean.Infrastructure.csproj"
               }
             }
           }
@@ -47,6 +50,16 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -105,6 +118,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -152,9 +171,6 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Studies\\Projects\\Projects\\CleanArcLearn\\Clean.Application\\Clean.Application.csproj": {
-                "projectPath": "D:\\Studies\\Projects\\Projects\\CleanArcLearn\\Clean.Application\\Clean.Application.csproj"
-              },
               "D:\\Studies\\Projects\\Projects\\CleanArcLearn\\Clean.Domain\\Clean.Domain.csproj": {
                 "projectPath": "D:\\Studies\\Projects\\Projects\\CleanArcLearn\\Clean.Domain\\Clean.Domain.csproj"
               }
@@ -171,6 +187,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[6.0.0, )"
@@ -245,6 +265,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[6.0.3, )"

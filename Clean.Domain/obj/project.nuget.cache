@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "17oqmAjq3l0FreaKkeLDe1I1Ptph7Maad6YE5A1WMOonlP4hO+hOJrkIrpgVj8imG+XmBl1VmHJeTL2tZup9ZQ==",
+  "dgSpecHash": "QxvJlY1vAXyg0k16iaT5IFdiS7ngUhkhZifFfZZzyf8Efa8Ms3zViF8N5NM3ZMrxMtwQWQISgM1VkKWU4B2r8w==",
   "success": true,
   "projectFilePath": "D:\\Studies\\Projects\\Projects\\CleanArcLearn\\Clean.Domain\\Clean.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\iqdar\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\iqdar\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\iqdar\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
+    "C:\\Users\\iqdar\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

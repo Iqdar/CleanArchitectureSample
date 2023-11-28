@@ -13,3 +13,5 @@ D:\Studies\Projects\Projects\CleanArcLearn\Clean.Application\obj\Debug\net6.0\Cl
 D:\Studies\Projects\Projects\CleanArcLearn\Clean.Application\obj\Debug\net6.0\Clean.Application.dll
 D:\Studies\Projects\Projects\CleanArcLearn\Clean.Application\obj\Debug\net6.0\ref\Clean.Application.dll
 D:\Studies\Projects\Projects\CleanArcLearn\Clean.Application\obj\Debug\net6.0\Clean.Application.pdb
+D:\Studies\Projects\Projects\CleanArcLearn\Clean.Application\bin\Debug\net6.0\Clean.Infrastructure.dll
+D:\Studies\Projects\Projects\CleanArcLearn\Clean.Application\bin\Debug\net6.0\Clean.Infrastructure.pdb

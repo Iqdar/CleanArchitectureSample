@@ -3,6 +3,7 @@ using Clean.Infrastructure;
 using Microsoft.EntityFrameworkCore;
 using Clean.PresentationApi;
 using Microsoft.Extensions.Configuration;
+using MediatR;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -18,8 +19,10 @@ builder.Services.AddSwaggerGen();
 //Add Database Service
 builder.Services.AddDbContext<MovieDbContext>(opt => opt.UseSqlServer(configuration.GetConnectionString("DefaultConnection"), b => b.MigrationsAssembly("Clean.PresentationApi")));
 
-builder.Services.AddScoped<iMovieService, MovieService>();
-builder.Services.AddScoped<iMovieRepository, MovieRepository>();
+builder.Services.AddMediatR(typeof(Program));
+
+//builder.Services.AddScoped<iMovieService, MovieService>();
+//builder.Services.AddScoped<iMovieRepository, MovieRepository>();
 
 var app = builder.Build();
 

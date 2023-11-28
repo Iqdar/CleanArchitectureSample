@@ -8,6 +8,12 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Clean.Domain\Clean.Domain.csproj" />
+    <ProjectReference Include="..\Clean.Infrastructure\Clean.Infrastructure.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="11.1.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.3" />
   </ItemGroup>
 
 </Project>
